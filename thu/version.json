@@ -1,0 +1,16 @@
+{
+  "windows": {
+    "version": "1.0.1",
+    "url": "https://github.com/kietsieudz/ban-cai-vu-tru-chi-chu/releases",
+    "zip": "https://github.com/kietsieudz/ban-cai-vu-tru-chi-chu/releases/download/v1.0.1/VTCT_pc_1.0.1.zip",
+    "notes": "Bản thử tự cập nhật (không dùng chơi thật)",
+    "batBuoc": false
+  },
+  "android": {
+    "version": "1.0.1",
+    "url": "https://github.com/kietsieudz/ban-cai-vu-tru-chi-chu/releases",
+    "apk": "https://github.com/kietsieudz/ban-cai-vu-tru-chi-chu/releases/download/v1.0.1/VTCT_1.0.1.apk",
+    "notes": "Bản thử tự cập nhật (không dùng chơi thật)",
+    "batBuoc": false
+  }
+}
